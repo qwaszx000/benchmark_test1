@@ -1,0 +1,12 @@
+#Rust
+target/
+Cargo.lock
+
+#Go
+pkg/
+go_gin/go_gin
+go_gnet/go_gnet
+go_std/go_std
+
+#Python
+venv/
