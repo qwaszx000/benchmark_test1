@@ -1,3 +1,5 @@
+.vscode
+
 #Rust
 target/
 Cargo.lock
@@ -7,6 +9,13 @@ pkg/
 go_gin/go_gin
 go_gnet/go_gnet
 go_std/go_std
+go_fiber/go_fiber
+go_fasthttp/go_fasthttp
 
 #Python
 venv/
+__pycache__/
+
+#JS
+node_modules/
+package-lock.json
