@@ -45,11 +45,12 @@ fn test_handler(
         copy_nonoverlapping(RESPONSE_404.as_ptr(), response_buf, RESPONSE_404_LENGTH);
         return RESPONSE_404_LENGTH;
     }
-    return 0;
 }
 
 #[inline(always)]
 fn main() {
+    //threaded_worker(port, cb, core as i32, num_cpu_cores); <- this line in epoll.rs(faf crate) causes sigfault by overflowing stack
+    //I didn't find exact reason, but somewhy it fills all 8MiB of new thread's stack with 0s
     epoll::go(8080, test_handler)
 }
 
