@@ -14,5 +14,5 @@ func handle_test(ctx *fasthttp.RequestCtx) {
 }
 
 func main() {
-	fasthttp.ListenAndServe("127.0.0.1:8080", handle_test)
+	fasthttp.ListenAndServe("0.0.0.0:8080", handle_test)
 }

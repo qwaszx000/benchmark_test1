@@ -50,5 +50,5 @@ func (server *TestServerGnet) OnTraffic(con gnet.Conn) gnet.Action {
 func main() {
 
 	server := TestServerGnet{}
-	gnet.Run(&server, "tcp://127.0.0.1:8080")
+	gnet.Run(&server, "tcp://0.0.0.0:8080")
 }

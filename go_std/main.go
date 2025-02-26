@@ -16,5 +16,5 @@ func handle_test_endpoint(w http.ResponseWriter, r *http.Request) {
 
 func main() {
 	http.HandleFunc("/test_plain", handle_test_endpoint)
-	http.ListenAndServe("127.0.0.1:8080", nil)
+	http.ListenAndServe("0.0.0.0:8080", nil)
 }

@@ -15,5 +15,5 @@ func main() {
 
 	app.Get("/test_plain", test_handler)
 
-	app.Listen("127.0.0.1:8080")
+	app.Listen("0.0.0.0:8080")
 }
