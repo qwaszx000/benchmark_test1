@@ -6,6 +6,7 @@ import (
 	"log"
 	"net/http"
 	"sync"
+	"sync/atomic"
 	"time"
 )
 
@@ -19,7 +20,6 @@ const (
 )
 
 type RPSCounter struct {
-	lock       sync.Mutex
 	count      uint64
 	sleep_next time.Duration
 }
@@ -101,10 +101,8 @@ main_loop:
 		ok, took := test_request()
 
 		//inc rps counter
-		rps_counter.lock.Lock()
-		rps_counter.count += 1
-		sleep_next = rps_counter.sleep_next
-		rps_counter.lock.Unlock()
+		atomic.AddUint64(&rps_counter.count, 1)
+		sleep_next = time.Duration(atomic.LoadInt64((*int64)(&rps_counter.sleep_next)))
 
 		//send resp data or exit on cancel
 		select {

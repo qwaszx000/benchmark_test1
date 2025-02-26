@@ -9,6 +9,7 @@ import (
 	"runtime/pprof"
 	"strconv"
 	"sync"
+	"sync/atomic"
 	"time"
 )
 
@@ -140,14 +141,18 @@ main_loop:
 
 		//Each second correct workers to get desired rps(using sleep_next); zero rps counter
 		case <-second_ticker.C:
-			rps_counter.lock.Lock()
+
+			//Read current data
+			sleep_duration := time.Duration(atomic.LoadInt64((*int64)(&rps_counter.sleep_next)))
+			last_rps_counter = atomic.LoadUint64(&rps_counter.count)
+			var new_sleep time.Duration = 0
 
 			//report debug info
-			log.Printf("Rps counter was: %d\n", rps_counter.count)
-			log.Printf("Sleep duration: %v\n", rps_counter.sleep_next)
+			log.Printf("Rps counter was: %d\n", last_rps_counter)
+			log.Printf("Sleep duration: %v\n", sleep_duration)
 
 			//Correct sleep duration for all workers(to reach target_rps)
-			if rps_counter.sleep_next == 0 && rps_counter.count < target_rps {
+			if sleep_duration == 0 && last_rps_counter < target_rps {
 				//Even with 0 sleep we can't reach target_rps
 				//Now the only thing we can do is nothing
 				//But maybe i can optimize code or add creating new workers in the future
@@ -159,24 +164,22 @@ main_loop:
 				log.Printf("[EXPERIMENTAL]Can't reach target_rps, creating new worker")*/
 				//I'll consider it experimental feature for now
 				//But it seems to be quite unstable, so it's better not to use it
-			} else if rps_counter.sleep_next == 0 {
+			} else if sleep_duration == 0 {
 				//First correction, less accurate
-				rps_counter.sleep_next = time.Duration(float64(time.Second) * float64(current_workers) / float64(target_rps))
+				new_sleep = time.Duration(float64(time.Second) * float64(current_workers) / float64(target_rps))
 			} else {
 				//Assert analog, we expect count to be > 0
-				if rps_counter.count == 0 {
+				if last_rps_counter == 0 {
 					log.Panic("rsp counter is zero")
 				}
 
 				//More accurate correction
-				rps_counter.sleep_next = time.Duration(float64(rps_counter.sleep_next) / float64(target_rps) * float64(rps_counter.count))
+				new_sleep = time.Duration(float64(sleep_duration) / float64(target_rps) * float64(last_rps_counter))
 			}
 
-			//zero counter
-			last_rps_counter = rps_counter.count
-			rps_counter.count = 0
-
-			rps_counter.lock.Unlock()
+			//zero counter and store new sleep duration
+			atomic.StoreInt64((*int64)(&rps_counter.sleep_next), int64(new_sleep))
+			atomic.StoreUint64(&rps_counter.count, 0)
 
 		//10 seconds timer to stop load
 		case <-timer_stop:
