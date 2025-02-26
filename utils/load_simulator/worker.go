@@ -24,10 +24,32 @@ type RPSCounter struct {
 	sleep_next time.Duration
 }
 
+var (
+	request_sender   http.RoundTripper
+	request_prepared *http.Request
+	err              error
+)
+
+func init() {
+	request_sender = &http.Transport{
+		MaxIdleConns:        0,
+		MaxIdleConnsPerHost: 0,
+		MaxConnsPerHost:     0,
+		ForceAttemptHTTP2:   false,
+	}
+
+	request_prepared, err = http.NewRequest("GET", target, http.NoBody)
+	if err != nil {
+		log.Fatal(err)
+	}
+}
+
 // Sends test request, measures time and checks response body
 func test_request() (bool, time.Duration) {
 	time_before := time.Now()
-	resp, err := http.Get(target)
+
+	//resp, err := http.Get(target)
+	resp, err := request_sender.RoundTrip(request_prepared) //Better optimized way
 	took_time := time.Since(time_before)
 
 	if err != nil {
@@ -51,6 +73,9 @@ func test_request() (bool, time.Duration) {
 		log.Printf("Received %v resp instead of expected %v\n", string(body_buff), EXPECTED_BODY)
 		return false, took_time
 	}
+
+	io.Copy(io.Discard, resp.Body) //Discard data(if we leave data in body - it will cause slowdown)
+	resp.Body.Close()              //Body must be closed
 
 	return true, took_time
 

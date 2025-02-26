@@ -6,6 +6,7 @@ import (
 	"flag"
 	"log"
 	"os"
+	"runtime/pprof"
 	"strconv"
 	"sync"
 	"time"
@@ -16,17 +17,31 @@ var (
 	target_rps      uint64
 	result_filename string
 
+	init_workers uint64
+
+	cpuprofile string
+	memprofile string
+
 	last_rps_counter uint64
 )
 
 func init() {
 	flag.StringVar(&target, "target", "http://127.0.0.1:8080/test_plain", "Target URI")
 	flag.Uint64Var(&target_rps, "rps", 100, "Requests per second")
-	flag.StringVar(&result_filename, "file", "./result.csv", "File to append csv results to")
+	flag.StringVar(&result_filename, "file", "", "File to append csv results to")
+
+	flag.Uint64Var(&init_workers, "workers", 50, "Number of workers") //50 seems to give near-peak performance
+
+	flag.StringVar(&cpuprofile, "cpuprofile", "", "Write CPU profile to")
+	flag.StringVar(&memprofile, "memprofile", "", "Write Memory profile to")
+
 	flag.Parse()
 }
 
 func write_resp(csv_writer *csv.Writer, data *RequestResult) {
+	if csv_writer == nil {
+		return
+	}
 	err := csv_writer.Write(
 		[]string{
 			//strconv.FormatUint(target_rps, 10),
@@ -44,7 +59,6 @@ func write_resp(csv_writer *csv.Writer, data *RequestResult) {
 // TODO -- maybe optimize it with profiler
 func main() {
 	const (
-		init_workers           = 2
 		chan_buffer_per_worker = 10
 	)
 
@@ -55,22 +69,38 @@ func main() {
 		wg            sync.WaitGroup
 		response_chan = make(chan RequestResult, init_workers*chan_buffer_per_worker)
 
-		result_file   *os.File    = nil
 		result_writer *csv.Writer = nil
 	)
 
-	//Open file and create csv writer
-	result_file, err := os.OpenFile(result_filename, os.O_CREATE|os.O_APPEND|os.O_WRONLY, 0755)
-	if err != nil {
-		log.Fatalf("Can't open file %s: %s\n", result_filename, err)
+	if cpuprofile != "" {
+		f, err := os.Create(cpuprofile)
+		if err != nil {
+			log.Fatal(err)
+		}
+		defer f.Close()
+
+		err = pprof.StartCPUProfile(f)
+		if err != nil {
+			log.Fatal(err)
+		}
+
+		defer pprof.StopCPUProfile()
 	}
 
-	result_writer = csv.NewWriter(result_file)
+	//Open file and create csv writer
+	if result_filename != "" {
+		result_file, err := os.OpenFile(result_filename, os.O_CREATE|os.O_APPEND|os.O_WRONLY, 0644)
+		if err != nil {
+			log.Fatalf("Can't open file %s: %s\n", result_filename, err)
+		}
 
-	defer func() {
-		result_writer.Flush()
-		result_file.Close()
-	}()
+		result_writer = csv.NewWriter(result_file)
+
+		defer func() {
+			result_writer.Flush()
+			result_file.Close()
+		}()
+	}
 
 	//Prepare context
 	ctx := context.Background()
@@ -82,7 +112,7 @@ func main() {
 	log.Printf("Starting load on %s...\n", target)
 
 	//create workers
-	for i := 0; i < init_workers; i++ {
+	for i := uint64(0); i < init_workers; i++ {
 		wg.Add(1)
 		go test_request_worker(ctx)
 		current_workers += 1
@@ -105,7 +135,7 @@ main_loop:
 		select {
 		//read data and write it to csv file
 		case data := <-response_chan:
-			log.Printf("%v %v\n", data.ok, data.took)
+			//log.Printf("%v %v\n", data.ok, data.took)
 			write_resp(result_writer, &data)
 
 		//Each second correct workers to get desired rps(using sleep_next); zero rps counter
@@ -162,7 +192,7 @@ finish_loop:
 		select {
 		//read data if we have it still
 		case data := <-response_chan:
-			log.Printf("%v %v\n", data.ok, data.took)
+			//log.Printf("%v %v\n", data.ok, data.took)
 
 			write_resp(result_writer, &data)
 		default:

@@ -9,10 +9,11 @@ func plain_get_handler(ctx *gin.Context) {
 }
 
 func main() {
+
 	gin.SetMode(gin.ReleaseMode)
 	http_engine := gin.Default()
 
 	http_engine.GET("/test_plain", plain_get_handler)
 
-	http_engine.Run()
+	http_engine.Run("0.0.0.0:8080")
 }
