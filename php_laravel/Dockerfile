@@ -1,19 +1,37 @@
-FROM alpine
 
-ARG APP_NAME=go_gnet
+#Thanks to
+#https://medium.com/@aprilrieger/effortlessly-dockerize-your-php-laravel-app-a-step-by-step-guide-c1a6ffcc2b74
 
-COPY ./${APP_NAME} /usr/local/bin/${APP_NAME}
+# Use PHP with Apache as the base image
+FROM php:8.2-apache as web
 
-RUN apk update && apk add gcompat
 
-RUN adduser --no-create-home --disabled-password server
-RUN chmod 755 /usr/local/bin/${APP_NAME}
-RUN chown server:server /usr/local/bin/${APP_NAME}
+RUN apt update && apt install -y libzip-dev zip
 
-USER server:server
+# Enable Apache mod_rewrite for URL rewriting
+RUN a2enmod rewrite
 
-ENV APP_NAME=${APP_NAME}
+# Install PHP extensions
+RUN docker-php-ext-install pdo_mysql zip
 
-ENTRYPOINT $APP_NAME
+# Configure Apache DocumentRoot to point to Laravel's public directory
+# and update Apache configuration files
+ENV APACHE_DOCUMENT_ROOT=/var/www/html/public
+RUN sed -i -e 's!/var/www/html!${APACHE_DOCUMENT_ROOT}!g' /etc/apache2/sites-available/*.conf
+RUN sed -i -e 's!/var/www/!${APACHE_DOCUMENT_ROOT}!g' /etc/apache2/apache2.conf /etc/apache2/conf-available/*.conf
 
-EXPOSE 8080
+# Copy the application code
+COPY . /var/www/html
+
+# Set the working directory
+WORKDIR /var/www/html
+
+# Install composer
+RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composer
+RUN chmod 755 /usr/local/bin/composer
+
+# Install project dependencies
+RUN composer install
+
+# Set permissions
+RUN chown -R www-data:www-data /var/www/html/storage /var/www/html/bootstrap/cache

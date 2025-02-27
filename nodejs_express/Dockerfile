@@ -1,19 +1,17 @@
-FROM alpine
+FROM node:current-alpine
 
-ARG APP_NAME=go_gnet
+RUN adduser --disabled-password --home /home/server/ server
 
-COPY ./${APP_NAME} /usr/local/bin/${APP_NAME}
+COPY ./index.js /home/server/index.js
+COPY ./package.json /home/server/package.json
+RUN chown -R server:server /home/server/
+RUN chmod -R 700 /home/server/
 
-RUN apk update && apk add gcompat
-
-RUN adduser --no-create-home --disabled-password server
-RUN chmod 755 /usr/local/bin/${APP_NAME}
-RUN chown server:server /usr/local/bin/${APP_NAME}
-
+WORKDIR /home/server/
 USER server:server
 
-ENV APP_NAME=${APP_NAME}
+RUN npm install
 
-ENTRYPOINT $APP_NAME
+ENTRYPOINT npm start
 
 EXPOSE 8080

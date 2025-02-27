@@ -64,7 +64,7 @@ Python
 2. FastAPI -- feels on par with flask, maybe docs are not so good
 
 PHP
-1. Symfony -- feels a little lighter than Laravel, but mostly same verdict
+1. Symfony -- feels a little lighter than Laravel, but mostly same verdict; not easy to dockerize
 2. Laravel -- big and complex framework, i wouldn't consider it for microservice - but i would use it to create website
 
 ---
@@ -83,4 +83,8 @@ Nim //Seems quite raw to me, i'll test it later; but i wouldn't consider it for 
 
 #### Objective
 In progress
+
+// docker run --memory 52428800 --memory-swap 104857600 --publish 8081:8080 --tty -i <container_id>
+
+
 
