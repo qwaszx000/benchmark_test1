@@ -71,13 +71,12 @@ def docker_compose_run(dir_name):
 
     return stop_function
 
+
+docker_compose_apps = ["php_symfony"]
 def run_benchmark(dir_name):
     print(dir_name)
-
-    """if dir_name not in ["php_laravel"]:
-        return"""
     
-    if dir_name in ["php_symfony", "php_laravel"]:
+    if dir_name in docker_compose_apps:
         stop_docker_fn = docker_compose_run(dir_name)
     else:
         stop_docker_fn = docker_run(dir_name)
@@ -88,18 +87,6 @@ def run_benchmark(dir_name):
         result_file_path = os.path.join(results_dir, result_file_name)
 
         with open(result_file_path, "w") as f:
-            """proc = subprocess.Popen(_tool_cmd, bufsize=1, text=True, stdout=f, stderr=subprocess.STDOUT)
-
-            try:
-                proc.wait(60)
-            except subprocess.TimeoutExpired:
-                proc.terminate()
-            
-            try:
-                proc.wait(5)
-            except subprocess.TimeoutExpired:
-                proc.kill()"""
-            
             subprocess.run(_tool_cmd, bufsize=1, text=True, stdout=f, stderr=subprocess.STDOUT)
 
     stop_docker_fn()
