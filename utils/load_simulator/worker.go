@@ -36,6 +36,8 @@ func init() {
 		MaxIdleConnsPerHost: 0,
 		MaxConnsPerHost:     0,
 		ForceAttemptHTTP2:   false,
+
+		ResponseHeaderTimeout: time.Second * 3,
 	}
 
 	request_prepared, err = http.NewRequest("GET", target, http.NoBody)

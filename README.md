@@ -29,7 +29,10 @@ I will be using one or more of these ways to perform tests
 ###### Measuring methodology:
 Again, i'll choice one or more of these
 1. [Prometheus](https://prometheus.io) + [Grafana](https://grafana.com/)
-2. My own tool written on one lang or on different languages + plotting with python matplotlib
+2. My own tool on go + plotting with python matplotlib
+3. [wrk](https://github.com/wg/wrk), [go-wrk](https://github.com/tsliwowicz/go-wrk)
+
+wrk consistently outperforms go-wrk and my own tool x1.5-x2
 
 ---
 
@@ -84,7 +87,6 @@ Nim //Seems quite raw to me, i'll test it later; but i wouldn't consider it for 
 #### Objective
 In progress
 
-// docker run --memory 52428800 --memory-swap 104857600 --publish 8081:8080 --tty -i <container_id>
 
 
 

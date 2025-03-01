@@ -29,17 +29,18 @@ func async_write_handler(con gnet.Conn, err error) error {
 }
 
 func (server *TestServerGnet) OnTraffic(con gnet.Conn) gnet.Action {
-	// con.Next()
 	resp_data := []byte("HTTP/1.1 200 OK\r\nServer: gnet\r\nContent-Type: text/plain\r\nContent-Length: 12\r\n\r\nHello world!")
 
-	buff, err := con.Next(512)
+	buff := make([]byte, 512)
+	_, err := con.Read(buff)
 	con.Discard(-1)
 	if err != nil {
-		//log.Printf("Error con.Next: %s", err)
+		//log.Printf("Error con.Next: %s\n", err)
 		return gnet.Close
 	}
 
 	if is_data_ok(buff) {
+		//log.Printf("Data ok\n")
 		go con.AsyncWrite(resp_data, async_write_handler)
 		return gnet.None
 	}
@@ -50,5 +51,5 @@ func (server *TestServerGnet) OnTraffic(con gnet.Conn) gnet.Action {
 func main() {
 
 	server := TestServerGnet{}
-	gnet.Run(&server, "tcp://0.0.0.0:8080")
+	gnet.Run(&server, "tcp://0.0.0.0:8080", gnet.WithMulticore(true))
 }

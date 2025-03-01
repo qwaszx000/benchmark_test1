@@ -20,6 +20,10 @@ ENV APACHE_DOCUMENT_ROOT=/var/www/html/public
 RUN sed -i -e 's!/var/www/html!${APACHE_DOCUMENT_ROOT}!g' /etc/apache2/sites-available/*.conf
 RUN sed -i -e 's!/var/www/!${APACHE_DOCUMENT_ROOT}!g' /etc/apache2/apache2.conf /etc/apache2/conf-available/*.conf
 
+#Change port to 8080(for consistency sake)
+RUN sed -i -e "s/:80/:8080/" /etc/apache2/sites-available/000-default.conf
+RUN sed -i -e "s/Listen 80/Listen 8080/" /etc/apache2/ports.conf
+
 # Copy the application code
 COPY . /var/www/html
 
@@ -35,3 +39,4 @@ RUN composer install
 
 # Set permissions
 RUN chown -R www-data:www-data /var/www/html/storage /var/www/html/bootstrap/cache
+

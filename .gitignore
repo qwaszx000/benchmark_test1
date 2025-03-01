@@ -12,8 +12,6 @@ go_std/go_std
 go_fiber/go_fiber
 go_fasthttp/go_fasthttp
 
-utils/load_simulator/load_simulator
-
 #Python
 venv/
 __pycache__/
@@ -21,3 +19,8 @@ __pycache__/
 #JS
 node_modules/
 package-lock.json
+
+#utils
+utils/load_simulator/load_simulator
+utils/wrk
+utils/go-wrk

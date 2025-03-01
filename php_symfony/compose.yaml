@@ -22,7 +22,7 @@ services:
     ports:
       # HTTP
       - target: 80
-        published: ${HTTP_PORT:-8080}
+        published: ${HTTP_PORT:-8081}
         protocol: tcp
 
 # Mercure is installed as a Caddy module, prevent the Flex recipe from installing another service

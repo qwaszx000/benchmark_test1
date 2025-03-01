@@ -1,0 +1,5 @@
+Running 10s test @ http://127.0.0.1:8081/test_plain
+  50 goroutine(s) running concurrently
+Error: No statistics collected / no requests found
+Number of Errors:	500
+Error Counts:		net/http: timeout awaiting response headers=500

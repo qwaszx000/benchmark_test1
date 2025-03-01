@@ -1,0 +1,11 @@
+2025/03/01 07:18:40 Starting load on http://127.0.0.1:8081/test_plain...
+2025/03/01 07:18:50 Finishing...
+2025/03/01 07:18:50 Done
+2025/03/01 07:18:50 Sent requests in total: 50946
+2025/03/01 07:18:50 AVG requests per second: 5094.600000
+2025/03/01 07:18:50 Success rate: 100.000000%
+
+2025/03/01 07:18:50 Min latency: 207.457µs
+2025/03/01 07:18:50 Max latency: 128.337797ms
+2025/03/01 07:18:50 AVG latency: 9.540879ms
+2025/03/01 07:18:50 Total: 51029
