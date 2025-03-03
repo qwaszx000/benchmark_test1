@@ -1,0 +1,154 @@
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O     PIDS
+fb08e38c9032   charming_spence   0.00%     33.74MiB / 256MiB   13.18%    2.89kB / 0B   72.2MB / 0B   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O     PIDS
+fb08e38c9032   charming_spence   0.00%     33.74MiB / 256MiB   13.18%    2.89kB / 0B   72.2MB / 0B   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O     PIDS
+fb08e38c9032   charming_spence   0.00%     33.74MiB / 256MiB   13.18%    3.09kB / 0B   72.2MB / 0B   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O     PIDS
+fb08e38c9032   charming_spence   0.00%     33.74MiB / 256MiB   13.18%    3.09kB / 0B   72.2MB / 0B   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   0.00%     33.74MiB / 256MiB   13.18%    3.09kB / 0B   72.2MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   0.00%     33.74MiB / 256MiB   13.18%    3.09kB / 0B   72.2MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   0.00%     33.74MiB / 256MiB   13.18%    3.09kB / 0B   72.2MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   0.00%     33.74MiB / 256MiB   13.18%    3.09kB / 0B   72.2MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   2.38%     32.35MiB / 256MiB   12.64%    3.09kB / 0B   72.2MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   2.38%     32.35MiB / 256MiB   12.64%    3.09kB / 0B   72.2MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   11.98%    33.02MiB / 256MiB   12.90%    27kB / 34.4kB   72.6MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   11.98%    33.02MiB / 256MiB   12.90%    27kB / 34.4kB   72.6MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   104.58%   43.82MiB / 256MiB   17.12%    236kB / 583kB   72.8MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   104.58%   43.82MiB / 256MiB   17.12%    236kB / 583kB   72.8MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   95.86%    45.93MiB / 256MiB   17.94%    493kB / 1.26MB   72.8MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   95.86%    45.93MiB / 256MiB   17.94%    493kB / 1.26MB   72.8MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   99.19%    48.17MiB / 256MiB   18.82%    778kB / 2.01MB   72.9MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   99.19%    48.17MiB / 256MiB   18.82%    778kB / 2.01MB   72.9MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O      PIDS
+fb08e38c9032   charming_spence   105.18%   45.8MiB / 256MiB    17.89%    994kB / 2.6MB   73MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O      PIDS
+fb08e38c9032   charming_spence   105.18%   45.8MiB / 256MiB    17.89%    994kB / 2.6MB   73MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O      PIDS
+fb08e38c9032   charming_spence   94.95%    46.15MiB / 256MiB   18.03%    1.31MB / 3.44MB   73MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O      PIDS
+fb08e38c9032   charming_spence   94.95%    46.15MiB / 256MiB   18.03%    1.31MB / 3.44MB   73MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O      PIDS
+fb08e38c9032   charming_spence   96.56%    45.86MiB / 256MiB   17.92%    1.64MB / 4.3MB   73MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O      PIDS
+fb08e38c9032   charming_spence   96.56%    45.86MiB / 256MiB   17.92%    1.64MB / 4.3MB   73MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O      PIDS
+fb08e38c9032   charming_spence   96.48%    45.9MiB / 256MiB    17.93%    1.96MB / 5.16MB   73MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O      PIDS
+fb08e38c9032   charming_spence   96.48%    45.9MiB / 256MiB    17.93%    1.96MB / 5.16MB   73MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O      PIDS
+fb08e38c9032   charming_spence   90.01%    46.14MiB / 256MiB   18.03%    2.28MB / 5.99MB   73MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O      PIDS
+fb08e38c9032   charming_spence   90.01%    46.14MiB / 256MiB   18.03%    2.28MB / 5.99MB   73MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O      PIDS
+fb08e38c9032   charming_spence   81.70%    46.16MiB / 256MiB   18.03%    2.49MB / 6.57MB   73MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O      PIDS
+fb08e38c9032   charming_spence   81.70%    46.16MiB / 256MiB   18.03%    2.49MB / 6.57MB   73MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   94.16%    46.06MiB / 256MiB   17.99%    2.78MB / 7.26MB   73.1MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   94.16%    46.06MiB / 256MiB   17.99%    2.78MB / 7.26MB   73.1MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   93.23%    46.19MiB / 256MiB   18.04%    3.12MB / 7.93MB   73.1MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   93.23%    46.19MiB / 256MiB   18.04%    3.12MB / 7.93MB   73.1MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   96.26%    46.25MiB / 256MiB   18.07%    3.5MB / 8.65MB   73.1MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   96.26%    46.25MiB / 256MiB   18.07%    3.5MB / 8.65MB   73.1MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   106.57%   46.3MiB / 256MiB    18.09%    3.83MB / 9.3MB   73.1MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   106.57%   46.3MiB / 256MiB    18.09%    3.83MB / 9.3MB   73.1MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   94.15%    46.28MiB / 256MiB   18.08%    4.2MB / 10MB   73.1MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   94.15%    46.28MiB / 256MiB   18.08%    4.2MB / 10MB   73.1MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   90.60%    46.25MiB / 256MiB   18.07%    4.55MB / 10.7MB   73.1MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   90.60%    46.25MiB / 256MiB   18.07%    4.55MB / 10.7MB   73.1MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   102.12%   46.18MiB / 256MiB   18.04%    4.96MB / 11.5MB   73.1MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   102.12%   46.18MiB / 256MiB   18.04%    4.96MB / 11.5MB   73.1MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   94.12%    46.26MiB / 256MiB   18.07%    5.33MB / 12.2MB   73.1MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   94.12%    46.26MiB / 256MiB   18.07%    5.33MB / 12.2MB   73.1MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   97.51%    46.24MiB / 256MiB   18.06%    5.75MB / 13MB   73.1MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   97.51%    46.24MiB / 256MiB   18.06%    5.75MB / 13MB   73.1MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   91.65%    46.25MiB / 256MiB   18.06%    6.11MB / 13.7MB   73.1MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   91.65%    46.25MiB / 256MiB   18.06%    6.11MB / 13.7MB   73.1MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   86.86%    46.09MiB / 256MiB   18.00%    6.52MB / 14.4MB   73.1MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   86.86%    46.09MiB / 256MiB   18.00%    6.52MB / 14.4MB   73.1MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   95.47%    46.14MiB / 256MiB   18.03%    6.98MB / 15.3MB   73.1MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   95.47%    46.14MiB / 256MiB   18.03%    6.98MB / 15.3MB   73.1MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   91.80%    46.22MiB / 256MiB   18.06%    7.41MB / 16MB   73.1MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   91.80%    46.22MiB / 256MiB   18.06%    7.41MB / 16MB   73.1MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   91.65%    46.49MiB / 256MiB   18.16%    7.83MB / 16.8MB   73.1MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   91.65%    46.49MiB / 256MiB   18.16%    7.83MB / 16.8MB   73.1MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   96.69%    46.24MiB / 256MiB   18.06%    8.3MB / 17.6MB   73.1MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   96.69%    46.24MiB / 256MiB   18.06%    8.3MB / 17.6MB   73.1MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   95.17%    46.25MiB / 256MiB   18.07%    8.75MB / 18.4MB   73.1MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   95.17%    46.25MiB / 256MiB   18.07%    8.75MB / 18.4MB   73.1MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   93.79%    46.25MiB / 256MiB   18.07%    9.19MB / 19.2MB   73.1MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   93.79%    46.25MiB / 256MiB   18.07%    9.19MB / 19.2MB   73.1MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   96.56%    46.25MiB / 256MiB   18.07%    9.66MB / 20.1MB   73.1MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   96.56%    46.25MiB / 256MiB   18.07%    9.66MB / 20.1MB   73.1MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   89.69%    46.23MiB / 256MiB   18.06%    10.1MB / 20.8MB   73.1MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   89.69%    46.23MiB / 256MiB   18.06%    10.1MB / 20.8MB   73.1MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   91.59%    46.25MiB / 256MiB   18.06%    10.5MB / 21.6MB   73.1MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   91.59%    46.25MiB / 256MiB   18.06%    10.5MB / 21.6MB   73.1MB / 4.1kB   18
+[2J[HCONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+fb08e38c9032   charming_spence   84.18%    16.73MiB / 256MiB   6.54%     10.9MB / 22.3MB   73.1MB / 4.1kB   11
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS

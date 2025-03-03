@@ -1,0 +1,19 @@
+Running 10s test @ http://127.0.0.1:8081/test_plain
+  50 goroutine(s) running concurrently
+8579 requests in 10.037820677s, 737.26KB read
+Requests/sec:		854.67
+Transfer/sec:		73.45KB
+Overall Requests/sec:	841.03
+Overall Transfer/sec:	72.28KB
+Fastest Request:	5.627ms
+Avg Req Time:		58.502ms
+Slowest Request:	195.575ms
+Number of Errors:	0
+10%:			8.419ms
+50%:			25.919ms
+75%:			27.608ms
+99%:			29.537ms
+99.9%:			29.73ms
+99.9999%:		29.73ms
+99.99999%:		29.73ms
+stddev:			17.471ms

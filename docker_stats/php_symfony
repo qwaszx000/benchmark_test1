@@ -1,0 +1,154 @@
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O     BLOCK I/O     PIDS
+04a5c8f66d47   php_symfony_php_1   0.00%     2.422MiB / 256MiB   0.95%     572B / 0B   5.92MB / 0B   2
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O     PIDS
+04a5c8f66d47   php_symfony_php_1   2.78%     4.664MiB / 256MiB   1.82%     1.56kB / 0B   18.4MB / 0B   2
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O     PIDS
+04a5c8f66d47   php_symfony_php_1   2.78%     4.664MiB / 256MiB   1.82%     1.56kB / 0B   18.4MB / 0B   2
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O     PIDS
+04a5c8f66d47   php_symfony_php_1   2.78%     4.664MiB / 256MiB   1.82%     1.56kB / 0B   18.4MB / 0B   2
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O     PIDS
+04a5c8f66d47   php_symfony_php_1   2.42%     8.969MiB / 256MiB   3.50%     4.83kB / 0B   30.5MB / 0B   2
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O     PIDS
+04a5c8f66d47   php_symfony_php_1   2.42%     8.969MiB / 256MiB   3.50%     4.83kB / 0B   30.5MB / 0B   2
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O     PIDS
+04a5c8f66d47   php_symfony_php_1   12.56%    19.18MiB / 256MiB   7.49%     5.61kB / 0B   37.7MB / 0B   2
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O     PIDS
+04a5c8f66d47   php_symfony_php_1   12.56%    19.18MiB / 256MiB   7.49%     5.61kB / 0B   37.7MB / 0B   2
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O        PIDS
+04a5c8f66d47   php_symfony_php_1   19.80%    9.691MiB / 256MiB   3.79%     5.81kB / 0B   46.7MB / 442kB   1
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O        PIDS
+04a5c8f66d47   php_symfony_php_1   19.80%    9.691MiB / 256MiB   3.79%     5.81kB / 0B   46.7MB / 442kB   1
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+04a5c8f66d47   php_symfony_php_1   2.19%     14.31MiB / 256MiB   5.59%     502kB / 362kB   63.4MB / 442kB   5
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+04a5c8f66d47   php_symfony_php_1   2.19%     14.31MiB / 256MiB   5.59%     502kB / 362kB   63.4MB / 442kB   5
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+04a5c8f66d47   php_symfony_php_1   5.31%     19.96MiB / 256MiB   7.80%     1.47MB / 1.07MB   79.2MB / 442kB   7
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+04a5c8f66d47   php_symfony_php_1   5.31%     19.96MiB / 256MiB   7.80%     1.47MB / 1.07MB   79.2MB / 442kB   7
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+04a5c8f66d47   php_symfony_php_1   10.92%    34.7MiB / 256MiB    13.56%    2.42MB / 1.76MB   93.3MB / 442kB   8
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+04a5c8f66d47   php_symfony_php_1   10.92%    34.7MiB / 256MiB    13.56%    2.42MB / 1.76MB   93.3MB / 442kB   8
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+04a5c8f66d47   php_symfony_php_1   64.10%    65.98MiB / 256MiB   25.77%    2.46MB / 1.83MB   94.7MB / 500kB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+04a5c8f66d47   php_symfony_php_1   64.10%    65.98MiB / 256MiB   25.77%    2.46MB / 1.83MB   94.7MB / 500kB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+04a5c8f66d47   php_symfony_php_1   130.73%   66.11MiB / 256MiB   25.82%    2.53MB / 2.04MB   94.9MB / 500kB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+04a5c8f66d47   php_symfony_php_1   130.73%   66.11MiB / 256MiB   25.82%    2.53MB / 2.04MB   94.9MB / 500kB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+04a5c8f66d47   php_symfony_php_1   151.21%   68.16MiB / 256MiB   26.63%    2.62MB / 2.28MB   94.9MB / 500kB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+04a5c8f66d47   php_symfony_php_1   151.21%   68.16MiB / 256MiB   26.63%    2.62MB / 2.28MB   94.9MB / 500kB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+04a5c8f66d47   php_symfony_php_1   143.99%   68.21MiB / 256MiB   26.65%    2.69MB / 2.52MB   94.9MB / 500kB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+04a5c8f66d47   php_symfony_php_1   143.99%   68.21MiB / 256MiB   26.65%    2.69MB / 2.52MB   94.9MB / 500kB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+04a5c8f66d47   php_symfony_php_1   160.19%   68.27MiB / 256MiB   26.67%    2.78MB / 2.78MB   94.9MB / 500kB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+04a5c8f66d47   php_symfony_php_1   160.19%   68.27MiB / 256MiB   26.67%    2.78MB / 2.78MB   94.9MB / 500kB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+04a5c8f66d47   php_symfony_php_1   151.02%   68.31MiB / 256MiB   26.68%    2.86MB / 3.03MB   94.9MB / 500kB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+04a5c8f66d47   php_symfony_php_1   151.02%   68.31MiB / 256MiB   26.68%    2.86MB / 3.03MB   94.9MB / 500kB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+04a5c8f66d47   php_symfony_php_1   159.71%   68.34MiB / 256MiB   26.70%    2.95MB / 3.29MB   94.9MB / 500kB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+04a5c8f66d47   php_symfony_php_1   159.71%   68.34MiB / 256MiB   26.70%    2.95MB / 3.29MB   94.9MB / 500kB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+04a5c8f66d47   php_symfony_php_1   134.33%   68.39MiB / 256MiB   26.72%    3.05MB / 3.51MB   94.9MB / 500kB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+04a5c8f66d47   php_symfony_php_1   134.33%   68.39MiB / 256MiB   26.72%    3.05MB / 3.51MB   94.9MB / 500kB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+04a5c8f66d47   php_symfony_php_1   142.40%   68.68MiB / 256MiB   26.83%    3.16MB / 3.75MB   94.9MB / 500kB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+04a5c8f66d47   php_symfony_php_1   142.40%   68.68MiB / 256MiB   26.83%    3.16MB / 3.75MB   94.9MB / 500kB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+04a5c8f66d47   php_symfony_php_1   133.91%   68.44MiB / 256MiB   26.73%    3.25MB / 3.97MB   94.9MB / 500kB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+04a5c8f66d47   php_symfony_php_1   133.91%   68.44MiB / 256MiB   26.73%    3.25MB / 3.97MB   94.9MB / 500kB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+04a5c8f66d47   php_symfony_php_1   151.31%   68.44MiB / 256MiB   26.73%    3.37MB / 4.22MB   94.9MB / 500kB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+04a5c8f66d47   php_symfony_php_1   151.31%   68.44MiB / 256MiB   26.73%    3.37MB / 4.22MB   94.9MB / 500kB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+04a5c8f66d47   php_symfony_php_1   142.93%   68.46MiB / 256MiB   26.74%    3.47MB / 4.44MB   94.9MB / 500kB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+04a5c8f66d47   php_symfony_php_1   142.93%   68.46MiB / 256MiB   26.74%    3.47MB / 4.44MB   94.9MB / 500kB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+04a5c8f66d47   php_symfony_php_1   146.84%   68.47MiB / 256MiB   26.75%    3.58MB / 4.68MB   94.9MB / 500kB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+04a5c8f66d47   php_symfony_php_1   146.84%   68.47MiB / 256MiB   26.75%    3.58MB / 4.68MB   94.9MB / 500kB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+04a5c8f66d47   php_symfony_php_1   134.97%   68.48MiB / 256MiB   26.75%    3.68MB / 4.9MB   94.9MB / 500kB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+04a5c8f66d47   php_symfony_php_1   134.97%   68.48MiB / 256MiB   26.75%    3.68MB / 4.9MB   94.9MB / 500kB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+04a5c8f66d47   php_symfony_php_1   148.99%   68.52MiB / 256MiB   26.77%    3.79MB / 5.15MB   94.9MB / 500kB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+04a5c8f66d47   php_symfony_php_1   148.99%   68.52MiB / 256MiB   26.77%    3.79MB / 5.15MB   94.9MB / 500kB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+04a5c8f66d47   php_symfony_php_1   120.01%   68.54MiB / 256MiB   26.77%    3.88MB / 5.34MB   94.9MB / 1.08MB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+04a5c8f66d47   php_symfony_php_1   120.01%   68.54MiB / 256MiB   26.77%    3.88MB / 5.34MB   94.9MB / 1.08MB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+04a5c8f66d47   php_symfony_php_1   152.43%   68.53MiB / 256MiB   26.77%    3.99MB / 5.59MB   94.9MB / 1.08MB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+04a5c8f66d47   php_symfony_php_1   152.43%   68.53MiB / 256MiB   26.77%    3.99MB / 5.59MB   94.9MB / 1.08MB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+04a5c8f66d47   php_symfony_php_1   134.62%   68.54MiB / 256MiB   26.77%    4.12MB / 5.81MB   94.9MB / 1.08MB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+04a5c8f66d47   php_symfony_php_1   134.62%   68.54MiB / 256MiB   26.77%    4.12MB / 5.81MB   94.9MB / 1.08MB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+04a5c8f66d47   php_symfony_php_1   136.98%   68.54MiB / 256MiB   26.77%    4.22MB / 6.03MB   94.9MB / 1.08MB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+04a5c8f66d47   php_symfony_php_1   136.98%   68.54MiB / 256MiB   26.77%    4.22MB / 6.03MB   94.9MB / 1.08MB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+04a5c8f66d47   php_symfony_php_1   131.86%   68.54MiB / 256MiB   26.77%    4.32MB / 6.23MB   94.9MB / 1.08MB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+04a5c8f66d47   php_symfony_php_1   131.86%   68.54MiB / 256MiB   26.77%    4.32MB / 6.23MB   94.9MB / 1.08MB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+04a5c8f66d47   php_symfony_php_1   154.15%   68.88MiB / 256MiB   26.91%    4.44MB / 6.49MB   94.9MB / 1.08MB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+04a5c8f66d47   php_symfony_php_1   154.15%   68.88MiB / 256MiB   26.91%    4.44MB / 6.49MB   94.9MB / 1.08MB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+04a5c8f66d47   php_symfony_php_1   150.70%   68.88MiB / 256MiB   26.91%    4.56MB / 6.73MB   94.9MB / 1.08MB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+04a5c8f66d47   php_symfony_php_1   150.70%   68.88MiB / 256MiB   26.91%    4.56MB / 6.73MB   94.9MB / 1.08MB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+04a5c8f66d47   php_symfony_php_1   135.13%   75.5MiB / 256MiB    29.49%    4.67MB / 6.94MB   95.5MB / 1.08MB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+04a5c8f66d47   php_symfony_php_1   135.13%   75.5MiB / 256MiB    29.49%    4.67MB / 6.94MB   95.5MB / 1.08MB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+04a5c8f66d47   php_symfony_php_1   135.58%   75.52MiB / 256MiB   29.50%    4.78MB / 7.16MB   95.5MB / 1.08MB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+04a5c8f66d47   php_symfony_php_1   135.58%   75.52MiB / 256MiB   29.50%    4.78MB / 7.16MB   95.5MB / 1.08MB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O         PIDS
+04a5c8f66d47   php_symfony_php_1   152.94%   75.54MiB / 256MiB   29.51%    4.9MB / 7.41MB   95.5MB / 1.08MB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O         PIDS
+04a5c8f66d47   php_symfony_php_1   152.94%   75.54MiB / 256MiB   29.51%    4.9MB / 7.41MB   95.5MB / 1.08MB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+04a5c8f66d47   php_symfony_php_1   144.49%   75.55MiB / 256MiB   29.51%    5.01MB / 7.64MB   95.5MB / 1.08MB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+04a5c8f66d47   php_symfony_php_1   144.49%   75.55MiB / 256MiB   29.51%    5.01MB / 7.64MB   95.5MB / 1.08MB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+04a5c8f66d47   php_symfony_php_1   154.88%   75.21MiB / 256MiB   29.38%    5.13MB / 7.89MB   95.5MB / 1.08MB   31
+[2J[HCONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
+04a5c8f66d47   php_symfony_php_1   154.88%   75.21MiB / 256MiB   29.38%    5.13MB / 7.89MB   95.5MB / 1.08MB   31
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS

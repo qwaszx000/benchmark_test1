@@ -1,0 +1,153 @@
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   0.00%     2.941MiB / 256MiB   1.15%     3.09kB / 0B   5.78MB / 0B   6
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   0.00%     2.941MiB / 256MiB   1.15%     3.09kB / 0B   5.78MB / 0B   6
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   0.00%     2.941MiB / 256MiB   1.15%     3.09kB / 0B   5.78MB / 0B   6
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   0.00%     2.941MiB / 256MiB   1.15%     3.09kB / 0B   5.78MB / 0B   6
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   0.00%     2.941MiB / 256MiB   1.15%     3.09kB / 0B   5.78MB / 0B   6
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   0.00%     2.941MiB / 256MiB   1.15%     3.09kB / 0B   5.78MB / 0B   6
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   0.01%     2.941MiB / 256MiB   1.15%     3.09kB / 0B   5.78MB / 0B   6
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   0.01%     2.941MiB / 256MiB   1.15%     3.09kB / 0B   5.78MB / 0B   6
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   0.00%     2.941MiB / 256MiB   1.15%     3.09kB / 0B   5.78MB / 0B   6
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   0.00%     2.941MiB / 256MiB   1.15%     3.09kB / 0B   5.78MB / 0B   6
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   13.61%    5.281MiB / 256MiB   2.06%     516kB / 852kB   6.14MB / 0B   7
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   13.61%    5.281MiB / 256MiB   2.06%     516kB / 852kB   6.14MB / 0B   7
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   44.66%    5.305MiB / 256MiB   2.07%     2.45MB / 4.1MB   6.14MB / 0B   8
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   44.66%    5.305MiB / 256MiB   2.07%     2.45MB / 4.1MB   6.14MB / 0B   8
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   39.85%    5.309MiB / 256MiB   2.07%     4.06MB / 6.8MB   6.14MB / 0B   8
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   39.85%    5.309MiB / 256MiB   2.07%     4.06MB / 6.8MB   6.14MB / 0B   8
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   40.60%    5.309MiB / 256MiB   2.07%     5.74MB / 9.62MB   6.14MB / 0B   8
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   40.60%    5.309MiB / 256MiB   2.07%     5.74MB / 9.62MB   6.14MB / 0B   8
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   48.20%    5.309MiB / 256MiB   2.07%     7.83MB / 13.1MB   6.14MB / 0B   8
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   48.20%    5.309MiB / 256MiB   2.07%     7.83MB / 13.1MB   6.14MB / 0B   8
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   46.35%    5.336MiB / 256MiB   2.08%     9.83MB / 16.5MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   46.35%    5.336MiB / 256MiB   2.08%     9.83MB / 16.5MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   45.57%    5.336MiB / 256MiB   2.08%     11.7MB / 19.6MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   45.57%    5.336MiB / 256MiB   2.08%     11.7MB / 19.6MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   44.87%    5.336MiB / 256MiB   2.08%     13.6MB / 22.8MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   44.87%    5.336MiB / 256MiB   2.08%     13.6MB / 22.8MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   42.46%    5.336MiB / 256MiB   2.08%     15.3MB / 25.7MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   42.46%    5.336MiB / 256MiB   2.08%     15.3MB / 25.7MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   42.63%    5.332MiB / 256MiB   2.08%     17.1MB / 28.6MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   42.63%    5.332MiB / 256MiB   2.08%     17.1MB / 28.6MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   38.29%    5.344MiB / 256MiB   2.09%     18.4MB / 30.8MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   38.29%    5.344MiB / 256MiB   2.09%     18.4MB / 30.8MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   34.00%    5.344MiB / 256MiB   2.09%     19.6MB / 32.2MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   34.00%    5.344MiB / 256MiB   2.09%     19.6MB / 32.2MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   32.77%    5.344MiB / 256MiB   2.09%     20.9MB / 33.8MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   32.77%    5.344MiB / 256MiB   2.09%     20.9MB / 33.8MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   33.46%    5.344MiB / 256MiB   2.09%     22.2MB / 35.4MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   33.46%    5.344MiB / 256MiB   2.09%     22.2MB / 35.4MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   36.74%    5.344MiB / 256MiB   2.09%     23.6MB / 37.1MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   36.74%    5.344MiB / 256MiB   2.09%     23.6MB / 37.1MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   30.88%    5.344MiB / 256MiB   2.09%     24.7MB / 38.5MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   30.88%    5.344MiB / 256MiB   2.09%     24.7MB / 38.5MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   31.57%    5.266MiB / 256MiB   2.06%     26MB / 40MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   31.57%    5.266MiB / 256MiB   2.06%     26MB / 40MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   34.29%    5.344MiB / 256MiB   2.09%     27.5MB / 41.8MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   34.29%    5.344MiB / 256MiB   2.09%     27.5MB / 41.8MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   33.97%    5.344MiB / 256MiB   2.09%     28.7MB / 43.3MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   33.97%    5.344MiB / 256MiB   2.09%     28.7MB / 43.3MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   34.54%    5.344MiB / 256MiB   2.09%     30.1MB / 45.1MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   34.54%    5.344MiB / 256MiB   2.09%     30.1MB / 45.1MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   26.16%    5.371MiB / 256MiB   2.10%     31.1MB / 46.2MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   26.16%    5.371MiB / 256MiB   2.10%     31.1MB / 46.2MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   30.85%    5.395MiB / 256MiB   2.11%     32.2MB / 47.3MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   30.85%    5.395MiB / 256MiB   2.11%     32.2MB / 47.3MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   29.54%    5.402MiB / 256MiB   2.11%     33MB / 48.1MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   29.54%    5.402MiB / 256MiB   2.11%     33MB / 48.1MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   30.47%    5.41MiB / 256MiB    2.11%     34.2MB / 49.3MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   30.47%    5.41MiB / 256MiB    2.11%     34.2MB / 49.3MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   31.68%    5.402MiB / 256MiB   2.11%     35.4MB / 50.6MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   31.68%    5.402MiB / 256MiB   2.11%     35.4MB / 50.6MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   33.47%    5.488MiB / 256MiB   2.14%     36.8MB / 52.1MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   33.47%    5.488MiB / 256MiB   2.14%     36.8MB / 52.1MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   32.49%    5.656MiB / 256MiB   2.21%     38.1MB / 53.4MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   32.49%    5.656MiB / 256MiB   2.21%     38.1MB / 53.4MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   37.41%    5.914MiB / 256MiB   2.31%     39.7MB / 55.1MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   37.41%    5.914MiB / 256MiB   2.31%     39.7MB / 55.1MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   31.86%    6.215MiB / 256MiB   2.43%     41MB / 56.4MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   31.86%    6.215MiB / 256MiB   2.43%     41MB / 56.4MB   6.14MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   30.86%    6.938MiB / 256MiB   2.71%     42.2MB / 57.6MB   6.34MB / 0B   9
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+a19d01a0f479   elastic_golick   30.86%    6.938MiB / 256MiB   2.71%     42.2MB / 57.6MB   6.34MB / 0B   9
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS

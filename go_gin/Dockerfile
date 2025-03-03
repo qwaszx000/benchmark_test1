@@ -4,7 +4,7 @@ COPY ./go_gin /usr/local/bin/go_gin
 
 RUN apk update && apk add gcompat
 
-RUN adduser --no-create-home --disabled-password server
+RUN adduser --home /home/server --disabled-password server
 RUN chmod 755 /usr/local/bin/go_gin
 RUN chown server:server /usr/local/bin/go_gin
 

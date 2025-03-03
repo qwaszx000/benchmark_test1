@@ -16,8 +16,6 @@ USER server:server
 
 RUN pip install -r ./requirements.txt && pip install "uvicorn[standard]"
 
-#1 worker because with 2 workers i receive "Child process [*] died" in loop
-#removing memory limit prevents it -> so i decided it's because of it, so we use only 1 worker here
-ENTRYPOINT python3 -m uvicorn --host 0.0.0.0 --port 8080 --workers 1 "main:app"
+ENTRYPOINT python3 -m uvicorn --host 0.0.0.0 --port 8080 --workers 2 "main:app"
 
 EXPOSE 8080

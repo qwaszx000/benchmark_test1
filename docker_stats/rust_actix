@@ -1,0 +1,193 @@
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   0.00%     1.27MiB / 256MiB    0.50%     2.89kB / 0B   3.33MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   0.00%     1.27MiB / 256MiB    0.50%     2.89kB / 0B   3.33MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   0.03%     1.27MiB / 256MiB    0.50%     3.09kB / 0B   3.33MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   0.03%     1.27MiB / 256MiB    0.50%     3.09kB / 0B   3.33MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   0.02%     1.27MiB / 256MiB    0.50%     3.09kB / 0B   3.33MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   0.02%     1.27MiB / 256MiB    0.50%     3.09kB / 0B   3.33MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   0.02%     1.27MiB / 256MiB    0.50%     3.09kB / 0B   3.33MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   0.02%     1.27MiB / 256MiB    0.50%     3.09kB / 0B   3.33MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   0.02%     1.27MiB / 256MiB    0.50%     3.16kB / 0B   3.33MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   0.02%     1.27MiB / 256MiB    0.50%     3.16kB / 0B   3.33MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   10.33%    2.348MiB / 256MiB   0.92%     473kB / 617kB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   10.33%    2.348MiB / 256MiB   0.92%     473kB / 617kB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   68.34%    2.375MiB / 256MiB   0.93%     3.17MB / 4.2MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   68.34%    2.375MiB / 256MiB   0.93%     3.17MB / 4.2MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   63.10%    2.375MiB / 256MiB   0.93%     5.67MB / 7.51MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   63.10%    2.375MiB / 256MiB   0.93%     5.67MB / 7.51MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   59.23%    2.375MiB / 256MiB   0.93%     7.95MB / 10.5MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   59.23%    2.375MiB / 256MiB   0.93%     7.95MB / 10.5MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   57.74%    2.375MiB / 256MiB   0.93%     10.2MB / 13.6MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   57.74%    2.375MiB / 256MiB   0.93%     10.2MB / 13.6MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   71.12%    2.375MiB / 256MiB   0.93%     13MB / 17.2MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   71.12%    2.375MiB / 256MiB   0.93%     13MB / 17.2MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   64.18%    2.375MiB / 256MiB   0.93%     15.5MB / 20.6MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   64.18%    2.375MiB / 256MiB   0.93%     15.5MB / 20.6MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   67.93%    2.375MiB / 256MiB   0.93%     18.2MB / 24.2MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   67.93%    2.375MiB / 256MiB   0.93%     18.2MB / 24.2MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   66.53%    2.375MiB / 256MiB   0.93%     20.8MB / 27.7MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   66.53%    2.375MiB / 256MiB   0.93%     20.8MB / 27.7MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   66.24%    2.375MiB / 256MiB   0.93%     23.6MB / 31.3MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   66.24%    2.375MiB / 256MiB   0.93%     23.6MB / 31.3MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   57.23%    2.492MiB / 256MiB   0.97%     25.9MB / 34.2MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   57.23%    2.492MiB / 256MiB   0.97%     25.9MB / 34.2MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   40.86%    2.527MiB / 256MiB   0.99%     27.9MB / 36.2MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   40.86%    2.527MiB / 256MiB   0.99%     27.9MB / 36.2MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   45.37%    2.535MiB / 256MiB   0.99%     30.3MB / 38.5MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   45.37%    2.535MiB / 256MiB   0.99%     30.3MB / 38.5MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   46.68%    2.535MiB / 256MiB   0.99%     33MB / 41.2MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   46.68%    2.535MiB / 256MiB   0.99%     33MB / 41.2MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   44.56%    2.535MiB / 256MiB   0.99%     35.5MB / 43.5MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   44.56%    2.535MiB / 256MiB   0.99%     35.5MB / 43.5MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   46.98%    2.535MiB / 256MiB   0.99%     38.2MB / 46.1MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   46.98%    2.535MiB / 256MiB   0.99%     38.2MB / 46.1MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   45.61%    2.535MiB / 256MiB   0.99%     40.7MB / 48.6MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   45.61%    2.535MiB / 256MiB   0.99%     40.7MB / 48.6MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   47.97%    2.535MiB / 256MiB   0.99%     43.6MB / 51.4MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   47.97%    2.535MiB / 256MiB   0.99%     43.6MB / 51.4MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   43.86%    2.535MiB / 256MiB   0.99%     45.7MB / 53.4MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   43.86%    2.535MiB / 256MiB   0.99%     45.7MB / 53.4MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   43.20%    2.535MiB / 256MiB   0.99%     47.7MB / 55.3MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   43.20%    2.535MiB / 256MiB   0.99%     47.7MB / 55.3MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   41.28%    3.094MiB / 256MiB   1.21%     49.9MB / 57.5MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   41.28%    3.094MiB / 256MiB   1.21%     49.9MB / 57.5MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   46.00%    3.723MiB / 256MiB   1.45%     52.5MB / 59.7MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   46.00%    3.723MiB / 256MiB   1.45%     52.5MB / 59.7MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   46.87%    3.281MiB / 256MiB   1.28%     55.2MB / 62.1MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   46.87%    3.281MiB / 256MiB   1.28%     55.2MB / 62.1MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   45.41%    3.141MiB / 256MiB   1.23%     57.8MB / 64.3MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   45.41%    3.141MiB / 256MiB   1.23%     57.8MB / 64.3MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   45.74%    3.055MiB / 256MiB   1.19%     60.4MB / 66.6MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   45.74%    3.055MiB / 256MiB   1.19%     60.4MB / 66.6MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   43.94%    3.027MiB / 256MiB   1.18%     62.8MB / 68.6MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   43.94%    3.027MiB / 256MiB   1.18%     62.8MB / 68.6MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   44.60%    3.121MiB / 256MiB   1.22%     65.3MB / 70.8MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   44.60%    3.121MiB / 256MiB   1.22%     65.3MB / 70.8MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   45.31%    3.18MiB / 256MiB    1.24%     67.8MB / 72.9MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   45.31%    3.18MiB / 256MiB    1.24%     67.8MB / 72.9MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   45.38%    3.309MiB / 256MiB   1.29%     70.5MB / 75.2MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   45.38%    3.309MiB / 256MiB   1.29%     70.5MB / 75.2MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   46.62%    3.18MiB / 256MiB    1.24%     73MB / 77.4MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   46.62%    3.18MiB / 256MiB    1.24%     73MB / 77.4MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   31.89%    2.961MiB / 256MiB   1.16%     74.8MB / 78.9MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   31.89%    2.961MiB / 256MiB   1.16%     74.8MB / 78.9MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   0.02%     2.961MiB / 256MiB   1.16%     74.8MB / 78.9MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   0.02%     2.961MiB / 256MiB   1.16%     74.8MB / 78.9MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   0.03%     2.961MiB / 256MiB   1.16%     74.8MB / 78.9MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   0.03%     2.961MiB / 256MiB   1.16%     74.8MB / 78.9MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   0.03%     2.961MiB / 256MiB   1.16%     74.8MB / 78.9MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   0.03%     2.961MiB / 256MiB   1.16%     74.8MB / 78.9MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   0.03%     2.961MiB / 256MiB   1.16%     74.8MB / 78.9MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   0.03%     2.961MiB / 256MiB   1.16%     74.8MB / 78.9MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   0.03%     2.961MiB / 256MiB   1.16%     74.8MB / 78.9MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   0.03%     2.961MiB / 256MiB   1.16%     74.8MB / 78.9MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   0.02%     2.961MiB / 256MiB   1.16%     74.8MB / 78.9MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   0.02%     2.961MiB / 256MiB   1.16%     74.8MB / 78.9MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   0.03%     2.961MiB / 256MiB   1.16%     74.8MB / 78.9MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   0.03%     2.961MiB / 256MiB   1.16%     74.8MB / 78.9MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   0.02%     2.961MiB / 256MiB   1.16%     74.8MB / 78.9MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   0.02%     2.961MiB / 256MiB   1.16%     74.8MB / 78.9MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   0.02%     2.961MiB / 256MiB   1.16%     74.8MB / 78.9MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+8e3584f90cc7   festive_rhodes   0.02%     2.961MiB / 256MiB   1.16%     74.8MB / 78.9MB   3.38MB / 0B   5
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
