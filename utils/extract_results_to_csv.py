@@ -145,22 +145,98 @@ def process_my_util_report(file):
 
     return result
 
+def process_docker_stats_file(fd):
+    result = []
+
+    for line in fd:
+        #Filter header lines, we don't need them
+        if ord(line[0]) == 0x1b:
+            continue
+
+        line_cpu_usage = 0.0
+        line_mem_usage = 0
+
+        data_list = line.split(" ")
+        for cell in data_list:
+            if len(cell) == 0:
+                continue
+
+            if cell[-1] == '%':
+                cpu_usage = float(cell[:-1])
+                line_cpu_usage = cpu_usage
+                continue
+
+            if cell[-1] == 'B':
+                mem_usage = float(cell[:-3])
+
+                #Handle human-readable format
+                if cell[-3:] == "MiB":
+                    mem_usage = mem_usage * 1024 * 1024
+                elif cell[-3:] == "KiB":
+                    mem_usage = mem_usage * 1024
+
+                line_mem_usage = int(mem_usage)
+
+                #We don't need other info
+                break
+        
+        result.append([line_mem_usage, line_cpu_usage])
+
+    return result
+
 def process_file(file_path):
     filename = os.path.basename(file_path)
     technology, test_tool = filename[:-4].split("__")
+
+    max_mem_usage = 0
+    max_cpu_usage = 0.0
+    for entity in os.scandir("../docker_stats"):
+        if entity.is_file() and f"{technology}.csv" == entity.name:
+
+            with open(entity) as top_report_file:
+                reader = csv.DictReader(top_report_file)
+                
+                for data in reader:
+                    mem_usage = int(data["Mem usage"])
+                    cpu_usage = float(data["CPU%"])
+                    if mem_usage > max_mem_usage:
+                        max_mem_usage = mem_usage
+
+                    if cpu_usage > max_cpu_usage:
+                        max_cpu_usage = cpu_usage
+                
+            break
     
     data = [technology, test_tool]
     with open(file_path) as report_file:
         if test_tool == "wrk":
-            return data + process_wrk_report(report_file)
+            data += process_wrk_report(report_file)
         elif test_tool == "go-wrk":
-            return data + process_go_wrk_report(report_file)
+            data += process_go_wrk_report(report_file)
         elif test_tool == "my_util":
-            return data + process_my_util_report(report_file)
+            data += process_my_util_report(report_file)
         else:
             raise ValueError("test_tool is not supported")
+    
+    return data + [max_mem_usage, max_cpu_usage]
 
-def main():
+def translate_docker_stats2csv():
+    for entity in os.scandir("../docker_stats"):
+        if entity.is_file():
+            print(entity.name)
+
+            header = ["Mem usage", "CPU%"]
+            data = None
+            with open(entity.path) as fd:
+                data = process_docker_stats_file(fd)
+            
+            result_csv_path = os.path.join("../docker_stats", entity.name + ".csv")
+            with open(result_csv_path, "w") as fd:
+                writer = csv.writer(fd)
+                writer.writerow(header)
+                writer.writerows(data)
+
+def translate_resuls2csv():
     with open("results.csv", "w") as csv_file:
         results_writer = csv.writer(csv_file)
 
@@ -175,7 +251,10 @@ def main():
             "AVG latency",
             "Max latency",
 
-            "Success rate"
+            "Success rate",
+
+            "Max mem usage",
+            "Max CPU usage"
         ]
         results_writer.writerow(header_row)
 
@@ -186,5 +265,9 @@ def main():
                 csv_row_data = process_file(entity.path)
                 results_writer.writerow(csv_row_data)
 
+def main():
+    translate_docker_stats2csv()
+    translate_resuls2csv()
+    
 if __name__ == "__main__":
     main()
