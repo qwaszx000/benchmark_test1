@@ -5,7 +5,7 @@ import csv
 def main():
 
     data_dict = {}
-    selected_tool = "my_util"
+    selected_tool = "go-wrk"
     row_name = "Total requests made"
 
     with open("results.csv") as csv_file:

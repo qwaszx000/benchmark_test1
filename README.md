@@ -111,17 +111,18 @@ Nim //Seems quite raw to me, i'll test it later; but i wouldn't consider it for 
 
 ---
 
-###### CPU usage under stress from go-wrk
-###### CPU usage under stress from wrk
-###### CPU usage under stress from my_util
+###### Max CPU usage
+![](imgs/max_cpu_usage.png)
 
 ---
 
-###### Mem usage under stress from go-wrk
-###### Mem usage under stress from wrk
-###### Mem usage under stress from my_util
+###### Max Mem usage
+![](imgs/max_mem_usage.png)
 
 ---
+
+Notes:
+1. I numerated FastAPI instances by number of workers used in uvicorn
 
 #### Conclusions
 
@@ -133,7 +134,8 @@ Nim //Seems quite raw to me, i'll test it later; but i wouldn't consider it for 
 ###### PHP vs JS vs Python
 1. Laravel is a big and complex framework, symfony is lighter and faster
 2. Still, even python flask and FastAPI are faster
-3. FastAPI being slower than Flask in some tests is probably caused by using `gunicorn -w 2` for Flask and `uvicorn --workers 1` for FastAPI (i'll test it later)
+3. I wouldn't say that FastAPI is faster than Flask, at least i don't see it here as clear as i wanted it to be -- 
+maybe it's because of using gunicorn for flask and uvicorn for fastapi, i didn't test yet
 4. ExpressJS is better than FastAPI and Flask in this test, even through i run it with simple `node index.js`
 5. It would be interesting to see ExpressJS performance with Bun and/or PM2
 6. Hyper-Express did really good, i didn't expect it to be on par with rust and go
